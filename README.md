@@ -4,7 +4,7 @@
 ```` 
 My name is "Halil İbrahim Pamuk". I'm student of computer programming Bandırma 17 Eylül Universty Gönen MYO.
 I'm want so good be software developer on future.
-I development on flutter right now. 
+I'm development on flutter right now. 
 ````
 <hr>
 

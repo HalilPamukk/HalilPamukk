@@ -4,8 +4,7 @@
 ```` 
 My name is Halil İbrahim Pamuk.
 I am a student of computer programming at Bandırma 17 Eylül University Gönen Vocational School.
-I want to become a skilled software developer in the future.
-Currently, I am developing on Flutter. 
+Currently, I am developing on django. 
 ````
 <hr>
 

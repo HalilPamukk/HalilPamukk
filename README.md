@@ -3,7 +3,7 @@
 
 ```` 
 My name is Halil İbrahim Pamuk.
-I am a student of computer programming at Bandırma 17 Eylül University Gönen Vocational School.
+I am a student of computer programming at Bandırma Onyedi Eylül University Gönen Vocational School.
 Currently, I am developing on django. 
 ````
 <hr>
